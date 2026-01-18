@@ -33,13 +33,17 @@
 
 
 
-## Backend: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
 
-## Ferramentas:
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev)
+## ⚙️Tech Stack
+
+| Backend | Ferramentas |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev) |
+
+</div>
 
 
 ---
