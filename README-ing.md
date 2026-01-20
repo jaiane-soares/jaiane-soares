@@ -31,8 +31,6 @@ developer behind it).
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jaianesoares700@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jaiane-de-barros-soares-5897802b5/)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
-[![GitBook](https://img.shields.io/badge/GITBOOK-000?style=for-the-badge&logoColor=FFF&color=000)](https://app.gitbook.com/invite/3BzJD9kc8XUB2pCNxAEC/dy9JhBVtCIszi7593Hz4)
-
 
 
 
