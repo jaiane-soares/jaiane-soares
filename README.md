@@ -25,9 +25,7 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@Jaidev-l5f)
 [![GitBook](https://img.shields.io/badge/GITBOOK-000?style=for-the-badge&logoColor=FFF&color=000)](https://app.gitbook.com/invite/3BzJD9kc8XUB2pCNxAEC/dy9JhBVtCIszi7593Hz4)
 
-<a href="https://substack.com/@jai1156225" target="_blank">
-        <img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-      </a>
+
 
 ###
 
