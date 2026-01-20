@@ -34,18 +34,20 @@ developer behind it).
 [![GitBook](https://img.shields.io/badge/GITBOOK-000?style=for-the-badge&logoColor=FFF&color=000)](https://app.gitbook.com/invite/3BzJD9kc8XUB2pCNxAEC/dy9JhBVtCIszi7593Hz4)
 
 
-<a href="https://substack.com/@jai1156225" target="_blank">
-        <img src="https://img.shields.io/badge/Substack-B22222?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
-      </a>
 
 
 
 
-## Technologies: 
 
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,postgresql)](https://skillicons.dev)
+## ⚙️Tech Stack
 
+| Backend | Ferramentas |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev) |
+
+</div>
 
 ## My Projects:
 
