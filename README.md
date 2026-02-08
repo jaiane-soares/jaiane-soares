@@ -54,9 +54,9 @@
 
 | Projeto | Proposta | Tech Stack |
 | :--- | :--- | :--- | 
-| **[Sentinela AI](https://github.com/jaidev-bot/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist | `Java`, `Azure AI`, `Cosmos DB` | 
-| **[Echoes of Kindness](https://github.com/jaidev-bot/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | 
-| **[ZooManager](https://github.com/jaidev-bot/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | 
+| **[Sentinela AI](https://github.com/jaiane-soares/sentinela-ai)** | Analise de sentimento com o Azure AI Language para processar satisfação de clientes através de comentários reais da Olist | `Java`, `Azure AI`, `Cosmos DB` | 
+| **[Echoes of Kindness](https://github.com/jaiane-soares/echoes-kindness)** | O Echoes of Kindness usa IA da Azure e Spring Boot para transcrever consultas em tempo real. Foca em acessibilidade com legendas de alto contraste e salva dados no Cosmos DB. | `Java`, `Spring Boot`, `Azure Speech` | 
+| **[ZooManager](https://github.com/jaiane-soares/zoomanager)** | Sistema de API desenvolvido com Java e Spring Boot para otimizar processos essenciais de gestão em instalações zoológicas. | `Java`, `JPA`, `PostgreSQL`, `Swagger` | 
 
 #
 
