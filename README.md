@@ -39,7 +39,7 @@
 
 | Backend | Ferramentas |
 | :---: | :---: |
-| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,azure)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postman,git,github,idea)](https://skillicons.dev) |
 
 </div>
 
